@@ -1,0 +1,6 @@
+[book]
+authors = ["pbaja"]
+language = "en"
+multilingual = false
+src = "src"
+title = "DoubleDecker"
