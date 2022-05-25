@@ -1,4 +1,4 @@
-# 🧑‍💻 Non-steam launchers natively
+# 🧑‍💻 Non-steam launchers - Proton
 
 If you prefer not to use Bottles, you can just run Windows apps with Proton, that is, built-in compatibility layer in Steam.
 This is a little bit simpler, until you run into problems with different Proton versions.
