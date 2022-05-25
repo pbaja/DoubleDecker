@@ -1,11 +1,11 @@
-# 🧙 A compilation of things I wished somebody would tell me earlier
-As the title says. Really, these things should be known as soon as possible.
+# 🧙 Read before continuing
+A compilation of things I wished somebody would tell me earlier.
 
 ## Gaming mode
 - To take a screenshot, press STEAM + R1 (right bumper)
 
 ## Desktop Mode
-**THERE IS NO TEXT EDITOR**  
+- **THERE IS NO TEXT EDITOR**  
 I am not counting vim, as using it without a physical keyboard makes no sense.  
 I recommend installing a simple text editor: `KWrite`. You can find it in the Discover app.
 
@@ -14,6 +14,3 @@ I recommend installing a simple text editor: `KWrite`. You can find it in the Di
 - If you exit steam, clicking the mouse is done by the left and right triggers. 😶
 - STEAM + X button combination opens virtual keyboard. You can use joystick or touchpads to use it.
 - When STEAM or "three dot" buttons are pressed, they change some button functions of the gamepad.
-
-## Advanced
-- To see list of available desktop icons use Cuttlefish app.
