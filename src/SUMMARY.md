@@ -1,10 +1,15 @@
 # Summary
 
 - [🏠 Home](./index.md)
-- [🧙 I wish i've known](./wished_knowing.md)  
+- [🧙 Tips you should know](./wished_knowing.md)  
 - [💿 Using non-steam launchers](./non_steam/index.md)
-    - [Meet bottles](./non_steam/meet_bottles.md)
+    - [Meet and install bottles](./non_steam/meet_bottles.md)
     - [Creating bottles](./non_steam/creating_bottles.md)
-    - [Adding bottles to Steam](./non_steam/adding_to_steam.md)
+    - [Adding bottles to Steam](./non_steam/adding_bottles.md)
+    - [Adding bottle to Steam](./non_steam/adding_bottle.md)
+    - [Adding a single game to Steam](./non_steam/adding_single_game.md)
+- [🖼️ Screenshots in Desktop](./desktop_screenshots.md)
+- [⌨️ Enabling SSH to transfer files](./enable_ssh.md)
 - [🕹️ How to retro gaming]()
 - [🌍 Useful links]()
+- [💾 Choosing an SD card]()
