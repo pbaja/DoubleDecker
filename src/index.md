@@ -1,13 +1,12 @@
-# Welcome to the Steam Deck Nursery
+# Welcome to the Steam Deck Things
+> You can find here all kinds of things related to the Valve Steam Deck.  
 
-I just received my own Steam Deck, and thought, that it would be awesome to document everything that I would love to know earlier. How install things, what to use, where is something, how should i do something, etc.
+How install thingamajigs, how to receive the fandangles, where are the doodads - all of that and more on this website!. 
 
 This book is mostly a collection of tips and tricks I am compiling together while tinkering with my Steam Deck.  
 
-Why "Nursery"? Because it sounds cool, and is aimed at guiding beginners, or, new Steam Deck owners, how to do things I wanted to do but didn't know how.
-
 Start by looking at [all things I wish I knew earlier](./wished_knowing.md).
-  
+
 --------
 
 Feel free to suggest new stuff or share information by opening an issue at [Github](https://github.com/pbaja/DoubleDecker).  

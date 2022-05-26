@@ -9,6 +9,7 @@
 - [🧑‍💻 Non-steam launchers - Proton](./launchers_natively.md)
 - [🖼️ Screenshots in Desktop mode](./desktop_screenshots.md)
 - [📦 Enabling SSH to transfer files](./enable_ssh.md)
+- [🚀 Plugin Loader]()
 - [⭐ Installing ProtonGE]()
 - [🕹️ How to retro gaming]()
 - [💾 Choosing an SD card]()
