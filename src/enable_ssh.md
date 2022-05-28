@@ -18,6 +18,8 @@ After that, run this command to start the server immediately:
 ```
 sudo systemctl start sshd
 ```
+
+## Connecting to SSH
 Now, on your computer, you should be able to access the Steam Deck terminal with this command:
 ```
 ssh deck@steamdeck.local
